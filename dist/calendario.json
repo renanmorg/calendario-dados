@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2025-08-23T18:49:33.623Z",
+  "items": [
+    {
+      "award": "AFI Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "2025-09-05",
+      "timestamp": 1757026800000,
+      "imageUrl": "https://i.imgur.com/SsYPKLI.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "slug": "afi-awards"
+    },
+    {
+      "award": "AFI Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "2025-10-20",
+      "timestamp": 1760914800000,
+      "imageUrl": "https://i.imgur.com/SsYPKLI.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "slug": "afi-awards"
+    },
+    {
+      "award": "Alliance of Women Film Journalists EDA Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "2025-11-10",
+      "timestamp": 1762732800000,
+      "imageUrl": "https://i.imgur.com/QTJKBX3.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "slug": "alliance-of-women-film-journalists-eda-awards"
+    },
+    {
+      "award": "Ace Eddie Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "2025-12-11",
+      "timestamp": 1765411200000,
+      "imageUrl": "https://i.imgur.com/Yy5xZKv.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "slug": "ace-eddie-awards"
+    },
+    {
+      "award": "Ace Eddie Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "2025-12-12",
+      "timestamp": 1765497600000,
+      "imageUrl": "https://i.imgur.com/Yy5xZKv.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "slug": "ace-eddie-awards"
+    },
+    {
+      "award": "African-American Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "2026-01-01",
+      "timestamp": 1767225600000,
+      "imageUrl": "https://i.imgur.com/t15DGhA.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "slug": "african-american-film-critics-association-awards"
+    },
+    {
+      "award": "African-American Film Critics Association Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "2026-02-10",
+      "timestamp": 1770681600000,
+      "imageUrl": "https://i.imgur.com/t15DGhA.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "slug": "african-american-film-critics-association-awards"
+    }
+  ]
+}
