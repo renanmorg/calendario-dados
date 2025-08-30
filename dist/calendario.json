@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-30T14:30:29.167Z",
+  "updatedAt": "2025-08-30T14:32:08.856Z",
   "items": [
     {
       "award": "AFI Awards",
@@ -9,7 +9,7 @@
       "timestamp": 1757026800000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/SsYPKLI.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.podbean.com/livestream",
       "pageUrl": "",
       "slug": "afi-awards"
     },
@@ -21,7 +21,7 @@
       "timestamp": 1760914800000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/SsYPKLI.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.podbean.com/livestream",
       "pageUrl": "",
       "slug": "afi-awards"
     },
@@ -1971,7 +1971,7 @@
     }
   ],
   "lastLinkByAward": {
-    "afi-awards": "",
+    "afi-awards": "2025-08-30T14:32:08.856Z",
     "alliance-of-women-film-journalists-eda-awards": "",
     "ace-eddie-awards": "2025-08-30T14:30:29.167Z",
     "african-american-film-critics-association-awards": "",
