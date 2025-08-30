@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-23T18:58:00.058Z",
+  "updatedAt": "2025-08-30T13:34:00.743Z",
   "items": [
     {
       "award": "AFI Awards",
@@ -686,7 +686,7 @@
       "slug": "framboesa-de-ouro"
     },
     {
-      "award": "GALECA: The Society of LGBTQ Entertainment Critics",
+      "award": "GALECA: The Society of LGBTQ Entertainment Critics Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
       "date": "",
@@ -695,7 +695,7 @@
       "imageUrl": "https://i.imgur.com/KtzeFFw.png",
       "newsUrl": "",
       "pageUrl": "",
-      "slug": "galeca-the-society-of-lgbtq-entertainment-critics"
+      "slug": "galeca-the-society-of-lgbtq-entertainment-critics-awards"
     },
     {
       "award": "GALECA: The Society of LGBTQ Entertainment Critics Awards",
@@ -1658,7 +1658,7 @@
       "slug": "san-diego-film-critics-society-awards"
     },
     {
-      "award": "San Francisco Film Critics Circle Awards (San Francisco Bay Area Film Critics Circle)",
+      "award": "San Francisco Bay Area Film Critics Circle Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -1667,10 +1667,10 @@
       "imageUrl": "https://i.imgur.com/X4fsAIK.png",
       "newsUrl": "",
       "pageUrl": "",
-      "slug": "san-francisco-film-critics-circle-awards-san-francisco-bay-area-film-critics-circle"
+      "slug": "san-francisco-bay-area-film-critics-circle-awards"
     },
     {
-      "award": "San Francisco Film Critics Circle Awards (San Francisco Bay Area Film Critics Circle)",
+      "award": "San Francisco Bay Area Film Critics Circle Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
       "date": "",
@@ -1679,7 +1679,7 @@
       "imageUrl": "https://i.imgur.com/X4fsAIK.png",
       "newsUrl": "",
       "pageUrl": "",
-      "slug": "san-francisco-film-critics-circle-awards-san-francisco-bay-area-film-critics-circle"
+      "slug": "san-francisco-bay-area-film-critics-circle-awards"
     },
     {
       "award": "Satellite Awards",
@@ -1969,5 +1969,83 @@
       "pageUrl": "",
       "slug": "writers-guild-of-america-awards"
     }
-  ]
+  ],
+  "lastLinkByAward": {
+    "afi-awards": "",
+    "alliance-of-women-film-journalists-eda-awards": "",
+    "ace-eddie-awards": "",
+    "african-american-film-critics-association-awards": "",
+    "american-society-of-cinematographers-awards": "",
+    "annie-awards": "",
+    "art-directors-guild-awards": "",
+    "artios-awards-casting-society": "",
+    "astra-creative-arts-awards-hollywood-creative-alliance": "",
+    "astra-film-awards-hollywood-creative-alliance": "",
+    "atlanta-film-critics-circle-awards": "",
+    "austin-film-critics-association-awards": "",
+    "bafta": "",
+    "black-film-critics-circle-awards": "",
+    "boston-society-of-film-critics-awards": "",
+    "chicago-film-critics-association-awards": "",
+    "chicago-independent-film-critics-circle-awards": "",
+    "cinema-audio-society-awards": "",
+    "cinema-eye-honors-awards": "",
+    "columbus-film-critics-association-awards": "",
+    "costume-designers-guild-awards": "",
+    "critics-choice-documentary-awards": "",
+    "critics-choice-movie-awards": "",
+    "dallas-fort-worth-film-critics-association-awards": "",
+    "directors-guild-of-america-awards": "",
+    "european-film-awards": "",
+    "florida-film-critics-circle-awards": "",
+    "framboesa-de-ouro": "",
+    "galeca-the-society-of-lgbtq-entertainment-critics-awards": "",
+    "georgia-film-critics-association-awards": "",
+    "globo-de-ouro": "",
+    "gotham-awards": "",
+    "hollywood-music-in-media-awards": "",
+    "houston-film-critics-society-awards": "",
+    "ida-documentary-awards": "",
+    "independent-spirit-awards": "",
+    "indiana-film-journalists-association-awards": "",
+    "iowa-film-critics-association-awards": "",
+    "kansas-city-film-critics-circle-awards": "",
+    "las-vegas-film-critics-society-awards": "",
+    "london-film-critics-circle-awards": "",
+    "los-angeles-film-critics-association-awards": "",
+    "make-up-artists-and-hair-stylist-guild-awards": "",
+    "michigan-movie-critics-guild-awards": "",
+    "mpse-golden-reel-awards": "",
+    "national-board-of-review-awards": "",
+    "national-society-of-film-critics-awards": "",
+    "nevada-film-critics-society-awards": "",
+    "new-york-film-critics-circle-awards": "",
+    "new-york-film-critics-online-awards": "",
+    "north-carolina-film-critics-association-awards": "",
+    "north-texas-film-critics-association-awards": "",
+    "oklahoma-film-critics-circle-awards": "",
+    "online-association-of-female-film-critics-awards": "",
+    "online-film-critics-society-awards": "",
+    "oscar": "",
+    "philadelphia-film-critics-circle-awards": "",
+    "phoenix-critics-circle-awards": "",
+    "phoenix-film-critics-society-awards": "",
+    "premio-exclamacao": "",
+    "producers-guild-of-america-awards": "",
+    "sag-awards": "",
+    "san-diego-film-critics-society-awards": "",
+    "san-francisco-bay-area-film-critics-circle-awards": "",
+    "satellite-awards": "",
+    "seattle-film-critics-society-awards": "",
+    "southeastern-film-critics-association-awards": "",
+    "st-louis-film-critics-association-awards": "",
+    "the-society-of-composers-and-lyricists-awards": "",
+    "toronto-film-critics-association-awards": "",
+    "usc-scripter-awards": "",
+    "utah-film-critics-association-awards": "",
+    "vancouver-film-critics-circle-awards": "",
+    "visual-effects-society-awards": "",
+    "washington-dc-area-film-critics-association-awards": "",
+    "writers-guild-of-america-awards": ""
+  }
 }
