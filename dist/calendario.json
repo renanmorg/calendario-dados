@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-30T14:29:08.263Z",
+  "updatedAt": "2025-08-30T14:30:29.167Z",
   "items": [
     {
       "award": "AFI Awards",
@@ -57,7 +57,7 @@
       "timestamp": 1765497600000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/Yy5xZKv.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.podbean.com/livestream",
       "pageUrl": "",
       "slug": "ace-eddie-awards"
     },
@@ -1973,7 +1973,7 @@
   "lastLinkByAward": {
     "afi-awards": "",
     "alliance-of-women-film-journalists-eda-awards": "",
-    "ace-eddie-awards": "",
+    "ace-eddie-awards": "2025-08-30T14:30:29.167Z",
     "african-american-film-critics-association-awards": "",
     "american-society-of-cinematographers-awards": "",
     "annie-awards": "",
