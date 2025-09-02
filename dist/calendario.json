@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-02T20:21:24.732Z",
+  "updatedAt": "2025-09-02T20:22:00.552Z",
   "items": [
     {
       "award": "AFI Awards",
@@ -9,7 +9,7 @@
       "timestamp": 1757026800000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/SsYPKLI.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/testblog",
       "pageUrl": "",
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/aaaaqbwlh-827acmcaim0z8culqbgjib_orig.jpg",
       "newsTitle": "Festival de Veneza 2025: \"Frankenstein\" de Guillermo del Toro é aplaudido por mais de 12 minutos e considerado visualmente impressionante com uma grande atuação de Jacob Elordi!",
@@ -2299,7 +2299,7 @@
     }
   ],
   "lastLinkByAward": {
-    "afi-awards": "",
+    "afi-awards": "2025-09-02T20:22:00.552Z",
     "alliance-of-women-film-journalists-eda-awards": "",
     "ace-eddie-awards": "",
     "african-american-film-critics-association-awards": "",
