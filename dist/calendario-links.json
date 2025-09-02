@@ -1,8 +1,10 @@
 {
   "afi-awards": {
-    "indicadosUrl": "https://www.podbean.com/livestream",
-    "vencedoresUrl": "https://www.podbean.com/livestream",
-    "lastLinkAt": "2025-08-30T14:32:08.856Z"
+    "indicadosUrl": "",
+    "vencedoresUrl": "",
+    "lastLinkAt": "",
+    "lastChangeType": "",
+    "lastChangeUrl": ""
   },
   "alliance-of-women-film-journalists-eda-awards": {
     "indicadosUrl": "",
@@ -12,9 +14,11 @@
     "lastChangeUrl": ""
   },
   "ace-eddie-awards": {
-    "indicadosUrl": "https://www.podbean.com/livestream",
+    "indicadosUrl": "",
     "vencedoresUrl": "",
-    "lastLinkAt": "2025-08-30T14:30:29.167Z"
+    "lastLinkAt": "",
+    "lastChangeType": "",
+    "lastChangeUrl": ""
   },
   "african-american-film-critics-association-awards": {
     "indicadosUrl": "",
