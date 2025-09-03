@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-02T20:22:00.552Z",
+  "updatedAt": "2025-09-03T14:37:49.106Z",
   "items": [
     {
       "award": "AFI Awards",
@@ -65,7 +65,7 @@
       "timestamp": 1765497600000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/Yy5xZKv.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/testblog",
       "pageUrl": "",
       "newsImageUrl": "",
       "newsTitle": "",
@@ -2301,7 +2301,7 @@
   "lastLinkByAward": {
     "afi-awards": "2025-09-02T20:22:00.552Z",
     "alliance-of-women-film-journalists-eda-awards": "",
-    "ace-eddie-awards": "",
+    "ace-eddie-awards": "2025-09-03T14:37:49.106Z",
     "african-american-film-critics-association-awards": "",
     "american-society-of-cinematographers-awards": "",
     "annie-awards": "",
