@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-09-16T15:52:26.568Z",
+  "updatedAt": "2025-09-16T15:57:04.128Z",
   "items": [
     {
       "award": "European Film Awards",
@@ -142,6 +142,20 @@
       "slug": "independent-spirit-awards"
     },
     {
+      "award": "Critics Choice Movie Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "2025-12-05",
+      "timestamp": 1764892800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/PbTVmdT.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "critics-choice-movie-awards"
+    },
+    {
       "award": "Astra Film Awards (Hollywood Creative Alliance)",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -196,6 +210,20 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "satellite-awards"
+    },
+    {
+      "award": "Critics Choice Movie Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "2026-01-04",
+      "timestamp": 1767484800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/PbTVmdT.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "critics-choice-movie-awards"
     },
     {
       "award": "Annie Awards",
@@ -1092,34 +1120,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "costume-designers-guild-awards"
-    },
-    {
-      "award": "Critics Choice Movie Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/PbTVmdT.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "critics-choice-movie-awards"
-    },
-    {
-      "award": "Critics Choice Movie Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/PbTVmdT.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "critics-choice-movie-awards"
     },
     {
       "award": "Dallas-Fort Worth Film Critics Association Awards",
