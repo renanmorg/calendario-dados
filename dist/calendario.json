@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2025-09-25T09:56:24.959Z",
+  "updatedAt": "2025-09-25T10:06:48.391Z",
   "items": [
+    {
+      "award": "Critics Choice Documentary Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "2025-10-14",
+      "timestamp": 1760396400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/GZPhwz9.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "critics-choice-documentary-awards"
+    },
     {
       "award": "European Film Awards",
       "status": "Shortlist",
@@ -14,20 +28,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "european-film-awards"
-    },
-    {
-      "award": "Critics Choice Documentary Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "2025-10-20",
-      "timestamp": 1760914800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/GZPhwz9.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "critics-choice-documentary-awards"
     },
     {
       "award": "Gotham Awards",
