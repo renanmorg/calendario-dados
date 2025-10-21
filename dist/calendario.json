@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-15T16:54:39.784Z",
+  "updatedAt": "2025-10-21T12:21:51.928Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -107,6 +107,21 @@
       "slug": "european-film-awards"
     },
     {
+      "award": "IDA Documentary Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "18/11/2025",
+      "dateISO": "2025-11-18",
+      "timestamp": 1763424000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/RUaEZen.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "ida-documentary-awards"
+    },
+    {
       "award": "Hollywood Music In Media Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -182,6 +197,21 @@
       "slug": "independent-spirit-awards"
     },
     {
+      "award": "National Board of Review Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "03/12/2025",
+      "dateISO": "2025-12-03",
+      "timestamp": 1764720000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/OZDeSGi.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "national-board-of-review-awards"
+    },
+    {
       "award": "Critics Choice Movie Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -210,6 +240,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "seattle-film-critics-society-awards"
+    },
+    {
+      "award": "IDA Documentary Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "06/12/2025",
+      "dateISO": "2025-12-06",
+      "timestamp": 1764979200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/RUaEZen.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "ida-documentary-awards"
     },
     {
       "award": "Toronto Film Critics Association Awards",
@@ -1757,36 +1802,6 @@
       "slug": "ida-documentary-awards"
     },
     {
-      "award": "IDA Documentary Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/RUaEZen.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "ida-documentary-awards"
-    },
-    {
-      "award": "IDA Documentary Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/RUaEZen.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "ida-documentary-awards"
-    },
-    {
       "award": "Indiana Film Journalists Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1965,21 +1980,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "michigan-movie-critics-guild-awards"
-    },
-    {
-      "award": "National Board of Review Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/OZDeSGi.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "national-board-of-review-awards"
     },
     {
       "award": "National Board of Review Awards",
