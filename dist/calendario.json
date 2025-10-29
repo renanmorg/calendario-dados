@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-28T16:52:42.984Z",
+  "updatedAt": "2025-10-29T20:54:09.332Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -47,21 +47,6 @@
       "slug": "gotham-awards"
     },
     {
-      "award": "Prêmio Exclamação",
-      "status": "Início da votação aberta de nomeação",
-      "statusKey": "outro",
-      "date": "01/11/2025",
-      "dateISO": "2025-11-01",
-      "timestamp": 1761955200000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
-    },
-    {
       "award": "Critics Choice Documentary Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -75,6 +60,36 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "critics-choice-documentary-awards"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Início da votação aberta de nomeação",
+      "statusKey": "outro",
+      "date": "10/11/2025",
+      "dateISO": "2025-11-10",
+      "timestamp": 1762732800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
+    },
+    {
+      "award": "Cinema Eye Honors Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "13/11/2025",
+      "dateISO": "2025-11-13",
+      "timestamp": 1762992000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/foayYNY.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "cinema-eye-honors-awards"
     },
     {
       "award": "Astra Creative Arts Awards (Hollywood Creative Alliance)",
@@ -167,6 +182,21 @@
       "slug": "gotham-awards"
     },
     {
+      "award": "New York Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "02/12/2025",
+      "dateISO": "2025-12-02",
+      "timestamp": 1764633600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/jYzawLd.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "new-york-film-critics-circle-awards"
+    },
+    {
       "award": "Astra Creative Arts Awards (Hollywood Creative Alliance)",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -180,6 +210,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "astra-creative-arts-awards-hollywood-creative-alliance"
+    },
+    {
+      "award": "Atlanta Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "03/12/2025",
+      "dateISO": "2025-12-03",
+      "timestamp": 1764720000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/z0ZRWAl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "atlanta-film-critics-circle-awards"
     },
     {
       "award": "Independent Spirit Awards",
@@ -227,6 +272,21 @@
       "slug": "critics-choice-movie-awards"
     },
     {
+      "award": "Michigan Movie Critics Guild Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "05/12/2025",
+      "dateISO": "2025-12-05",
+      "timestamp": 1764892800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/mSdISCh.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "michigan-movie-critics-guild-awards"
+    },
+    {
       "award": "Seattle Film Critics Society Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -257,6 +317,51 @@
       "slug": "ida-documentary-awards"
     },
     {
+      "award": "Washington DC Area Film Critics Association Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "06/12/2025",
+      "dateISO": "2025-12-06",
+      "timestamp": 1764979200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/P5fRdl9.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "washington-dc-area-film-critics-association-awards"
+    },
+    {
+      "award": "Los Angeles Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "07/12/2025",
+      "dateISO": "2025-12-07",
+      "timestamp": 1765065600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/tXk30uf.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "los-angeles-film-critics-association-awards"
+    },
+    {
+      "award": "St. Louis Film Critics Association Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "07/12/2025",
+      "dateISO": "2025-12-07",
+      "timestamp": 1765065600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/CUSRsk6.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "st-louis-film-critics-association-awards"
+    },
+    {
       "award": "Toronto Film Critics Association Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -270,6 +375,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "toronto-film-critics-association-awards"
+    },
+    {
+      "award": "Washington DC Area Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "07/12/2025",
+      "dateISO": "2025-12-07",
+      "timestamp": 1765065600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/P5fRdl9.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "washington-dc-area-film-critics-association-awards"
     },
     {
       "award": "Astra Film Awards (Hollywood Creative Alliance)",
@@ -302,6 +422,36 @@
       "slug": "globo-de-ouro"
     },
     {
+      "award": "Michigan Movie Critics Guild Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "08/12/2025",
+      "dateISO": "2025-12-08",
+      "timestamp": 1765152000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/mSdISCh.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "michigan-movie-critics-guild-awards"
+    },
+    {
+      "award": "New York Film Critics Online Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "08/12/2025",
+      "dateISO": "2025-12-08",
+      "timestamp": 1765152000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/Ed86jrY.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "new-york-film-critics-online-awards"
+    },
+    {
       "award": "Chicago Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -330,6 +480,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "producers-guild-of-america-awards"
+    },
+    {
+      "award": "Austin Film Critics Association Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "10/12/2025",
+      "dateISO": "2025-12-10",
+      "timestamp": 1765324800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/9yE122I.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "austin-film-critics-association-awards"
     },
     {
       "award": "Chicago Film Critics Association Awards",
@@ -362,6 +527,36 @@
       "slug": "costume-designers-guild-awards"
     },
     {
+      "award": "St. Louis Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "14/12/2025",
+      "dateISO": "2025-12-14",
+      "timestamp": 1765670400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/CUSRsk6.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "st-louis-film-critics-association-awards"
+    },
+    {
+      "award": "Las Vegas Film Critics Society Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "15/12/2025",
+      "dateISO": "2025-12-15",
+      "timestamp": 1765756800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/Vjl6gZw.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "las-vegas-film-critics-society-awards"
+    },
+    {
       "award": "London Film Critics Circle Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -375,6 +570,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "london-film-critics-circle-awards"
+    },
+    {
+      "award": "New York Film Critics Online Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "15/12/2025",
+      "dateISO": "2025-12-15",
+      "timestamp": 1765756800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/Ed86jrY.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "new-york-film-critics-online-awards"
     },
     {
       "award": "Phoenix Film Critics Society Awards",
@@ -405,6 +615,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "seattle-film-critics-society-awards"
+    },
+    {
+      "award": "USC Scripter Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "15/12/2025",
+      "dateISO": "2025-12-15",
+      "timestamp": 1765756800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/EE9Ccfh.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "usc-scripter-awards"
     },
     {
       "award": "Oscar",
@@ -452,6 +677,21 @@
       "slug": "the-society-of-composers-and-lyricists-awards"
     },
     {
+      "award": "Austin Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "18/12/2025",
+      "dateISO": "2025-12-18",
+      "timestamp": 1766016000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/9yE122I.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "austin-film-critics-association-awards"
+    },
+    {
       "award": "Online Association of Female Film Critics Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -482,6 +722,21 @@
       "slug": "georgia-film-critics-association-awards"
     },
     {
+      "award": "Las Vegas Film Critics Society Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "19/12/2025",
+      "dateISO": "2025-12-19",
+      "timestamp": 1766102400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/Vjl6gZw.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "las-vegas-film-critics-society-awards"
+    },
+    {
       "award": "Online Association of Female Film Critics Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -510,6 +765,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "philadelphia-film-critics-circle-awards"
+    },
+    {
+      "award": "Utah Film Critics Association Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "20/12/2025",
+      "dateISO": "2025-12-20",
+      "timestamp": 1766188800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/TesXUFj.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "utah-film-critics-association-awards"
     },
     {
       "award": "Georgia Film Critics Association Awards",
@@ -630,6 +900,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "american-society-of-cinematographers-awards"
+    },
+    {
+      "award": "Cinema Eye Honors Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "08/01/2026",
+      "dateISO": "2026-01-08",
+      "timestamp": 1767830400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/foayYNY.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "cinema-eye-honors-awards"
     },
     {
       "award": "Directors Guild of America Awards",
@@ -870,6 +1155,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "premio-exclamacao"
+    },
+    {
+      "award": "USC Scripter Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "24/01/2026",
+      "dateISO": "2026-01-24",
+      "timestamp": 1769212800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/EE9Ccfh.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "usc-scripter-awards"
     },
     {
       "award": "North Carolina Film Critics Association Awards",
@@ -1413,21 +1713,6 @@
     },
     {
       "award": "Atlanta Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/z0ZRWAl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "atlanta-film-critics-circle-awards"
-    },
-    {
-      "award": "Atlanta Film Critics Circle Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -1440,36 +1725,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "atlanta-film-critics-circle-awards"
-    },
-    {
-      "award": "Austin Film Critics Association Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/9yE122I.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "austin-film-critics-association-awards"
-    },
-    {
-      "award": "Austin Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/9yE122I.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "austin-film-critics-association-awards"
     },
     {
       "award": "Black Film Critics Circle Awards",
@@ -1560,36 +1815,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "chicago-independent-film-critics-circle-awards"
-    },
-    {
-      "award": "Cinema Eye Honors Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/foayYNY.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "cinema-eye-honors-awards"
-    },
-    {
-      "award": "Cinema Eye Honors Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/foayYNY.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "cinema-eye-honors-awards"
     },
     {
       "award": "Columbus Film Critics Association Awards",
@@ -1892,51 +2117,6 @@
       "slug": "kansas-city-film-critics-circle-awards"
     },
     {
-      "award": "Las Vegas Film Critics Society Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/Vjl6gZw.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "las-vegas-film-critics-society-awards"
-    },
-    {
-      "award": "Las Vegas Film Critics Society Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/Vjl6gZw.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "las-vegas-film-critics-society-awards"
-    },
-    {
-      "award": "Los Angeles Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/tXk30uf.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "los-angeles-film-critics-association-awards"
-    },
-    {
       "award": "Los Angeles Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1950,36 +2130,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "los-angeles-film-critics-association-awards"
-    },
-    {
-      "award": "Michigan Movie Critics Guild Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/mSdISCh.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "michigan-movie-critics-guild-awards"
-    },
-    {
-      "award": "Michigan Movie Critics Guild Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/mSdISCh.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "michigan-movie-critics-guild-awards"
     },
     {
       "award": "National Board of Review Awards",
@@ -2043,21 +2193,6 @@
     },
     {
       "award": "New York Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/jYzawLd.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "new-york-film-critics-circle-awards"
-    },
-    {
-      "award": "New York Film Critics Circle Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -2070,36 +2205,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "new-york-film-critics-circle-awards"
-    },
-    {
-      "award": "New York Film Critics Online Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/Ed86jrY.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "new-york-film-critics-online-awards"
-    },
-    {
-      "award": "New York Film Critics Online Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/Ed86jrY.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "new-york-film-critics-online-awards"
     },
     {
       "award": "North Texas Film Critics Association Awards",
@@ -2312,36 +2417,6 @@
       "slug": "southeastern-film-critics-association-awards"
     },
     {
-      "award": "St. Louis Film Critics Association Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/CUSRsk6.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "st-louis-film-critics-association-awards"
-    },
-    {
-      "award": "St. Louis Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/CUSRsk6.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "st-louis-film-critics-association-awards"
-    },
-    {
       "award": "Toronto Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2357,51 +2432,6 @@
       "slug": "toronto-film-critics-association-awards"
     },
     {
-      "award": "USC Scripter Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/EE9Ccfh.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "usc-scripter-awards"
-    },
-    {
-      "award": "USC Scripter Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/EE9Ccfh.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "usc-scripter-awards"
-    },
-    {
-      "award": "Utah Film Critics Association Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/TesXUFj.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "utah-film-critics-association-awards"
-    },
-    {
       "award": "Utah Film Critics Association Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -2445,36 +2475,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "vancouver-film-critics-circle-awards"
-    },
-    {
-      "award": "Washington DC Area Film Critics Association Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/P5fRdl9.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "washington-dc-area-film-critics-association-awards"
-    },
-    {
-      "award": "Washington DC Area Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/P5fRdl9.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "washington-dc-area-film-critics-association-awards"
     }
   ],
   "lastLinkByAward": {
