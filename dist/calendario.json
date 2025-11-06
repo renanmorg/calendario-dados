@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-29T20:55:19.966Z",
+  "updatedAt": "2025-11-06T13:04:16.805Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -45,6 +45,21 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/kleber-mendonca-filho-e-wagner-md3d3d3rfr_orig.jpg",
       "newsTitle": "Wagner Moura e Kleber Mendonça Filho são indicados ao Gotham Awards 2025 por \"O Agente Secreto\"! \"Uma Batalha Após a Outra\" lidera com 6 indicações!",
       "slug": "gotham-awards"
+    },
+    {
+      "award": "Hollywood Music In Media Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "06/11/2025",
+      "dateISO": "2025-11-06",
+      "timestamp": 1762387200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/UpVhQFK.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/wicked-parte-2-lidera-com-6-indicacoes-o-hollywood-music-in-media-awards-2025-a-premiacao-mais-completa-de-musica-para-cinema",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/published/wicked-for-good-ver4-xlghollywod-music.jpg?1762432832",
+      "newsTitle": "\"Wicked - parte 2\" lidera com 6 indicações o Hollywood Music in Media Awards 2025, a premiação mais completa de música para cinema!",
+      "slug": "hollywood-music-in-media-awards"
     },
     {
       "award": "Critics Choice Documentary Awards",
@@ -1967,21 +1982,6 @@
       "slug": "galeca-the-society-of-lgbtq-entertainment-critics-awards"
     },
     {
-      "award": "Hollywood Music In Media Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/UpVhQFK.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "hollywood-music-in-media-awards"
-    },
-    {
       "award": "Houston Film Critics Society Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2510,7 +2510,7 @@
     "georgia-film-critics-association-awards": "",
     "globo-de-ouro": "",
     "gotham-awards": "2025-10-28T16:52:42.984Z",
-    "hollywood-music-in-media-awards": "",
+    "hollywood-music-in-media-awards": "2025-11-06T13:04:16.805Z",
     "houston-film-critics-society-awards": "",
     "ida-documentary-awards": "",
     "independent-spirit-awards": "",
