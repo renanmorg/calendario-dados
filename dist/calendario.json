@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-06T13:04:16.805Z",
+  "updatedAt": "2025-11-10T13:02:05.740Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -70,26 +70,11 @@
       "timestamp": 1762646400000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/GZPhwz9.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/a-vizinha-perfeita-vence-5-premios-incluindo-melhor-documentario-no-critics-choice-documentary-awards-2025",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/aaaaqrjfs1kkoyiak6nkfmvpry7zy8j8_orig.jpg",
+      "newsTitle": "\"A Vizinha Perfeita\" vence 5 prêmios, incluindo Melhor Documentário, no Critic's Choice Documentary Awards 2025!",
       "slug": "critics-choice-documentary-awards"
-    },
-    {
-      "award": "Prêmio Exclamação",
-      "status": "Início da votação aberta de nomeação",
-      "statusKey": "outro",
-      "date": "10/11/2025",
-      "dateISO": "2025-11-10",
-      "timestamp": 1762732800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
     },
     {
       "award": "Cinema Eye Honors Awards",
@@ -165,6 +150,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "hollywood-music-in-media-awards"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Início da votação aberta de nomeação",
+      "statusKey": "outro",
+      "date": "20/11/2025",
+      "dateISO": "2025-11-20",
+      "timestamp": 1763596800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
     },
     {
       "award": "Astra Film Awards (Hollywood Creative Alliance)",
@@ -2499,7 +2499,7 @@
     "cinema-eye-honors-awards": "",
     "columbus-film-critics-association-awards": "",
     "costume-designers-guild-awards": "",
-    "critics-choice-documentary-awards": "2025-10-15T16:54:39.784Z",
+    "critics-choice-documentary-awards": "2025-11-10T13:02:05.740Z",
     "critics-choice-movie-awards": "",
     "dallas-fort-worth-film-critics-association-awards": "",
     "directors-guild-of-america-awards": "",
