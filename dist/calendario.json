@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-18T15:35:16.964Z",
+  "updatedAt": "2025-11-18T15:38:05.446Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -887,7 +887,7 @@
       "slug": "art-directors-guild-awards"
     },
     {
-      "award": "SAG Awards",
+      "award": "The Actor Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "07/01/2026",
@@ -899,7 +899,7 @@
       "pageUrl": "",
       "newsImageUrl": "",
       "newsTitle": "",
-      "slug": "sag-awards"
+      "slug": "the-actor-awards"
     },
     {
       "award": "American Society of Cinematographers Awards",
@@ -1472,7 +1472,7 @@
       "slug": "producers-guild-of-america-awards"
     },
     {
-      "award": "SAG Awards",
+      "award": "The Actor Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
       "date": "01/03/2026",
@@ -1484,7 +1484,7 @@
       "pageUrl": "",
       "newsImageUrl": "",
       "newsTitle": "",
-      "slug": "sag-awards"
+      "slug": "the-actor-awards"
     },
     {
       "award": "Oscar",
@@ -2553,6 +2553,7 @@
     "vancouver-film-critics-circle-awards": "",
     "visual-effects-society-awards": "",
     "washington-dc-area-film-critics-association-awards": "",
-    "writers-guild-of-america-awards": ""
+    "writers-guild-of-america-awards": "",
+    "the-actor-awards": ""
   }
 }
