@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-19T00:26:23.439Z",
+  "updatedAt": "2025-11-19T20:54:48.540Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -130,10 +130,10 @@
       "timestamp": 1763510400000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/7BrmYgM.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-lidera-as-categorias-tecnicas-do-astra-film-awards-com-11-indicacoes",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/sinners-movithe-2025-hollywood-creative-alliance-s-hca-astra-creative-arts-awardse_orig.jpg",
+      "newsTitle": "\"Pecadores\" lidera as categorias técnicas do Astra Film Awards com 11 indicações!",
       "slug": "astra-creative-arts-awards-hollywood-creative-alliance"
     },
     {
@@ -152,21 +152,6 @@
       "slug": "hollywood-music-in-media-awards"
     },
     {
-      "award": "Prêmio Exclamação",
-      "status": "Início da votação aberta de nomeação",
-      "statusKey": "outro",
-      "date": "20/11/2025",
-      "dateISO": "2025-11-20",
-      "timestamp": 1763596800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
-    },
-    {
       "award": "Astra Film Awards (Hollywood Creative Alliance)",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -180,6 +165,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "astra-film-awards-hollywood-creative-alliance"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Início da votação aberta de nomeação",
+      "statusKey": "outro",
+      "date": "30/11/2025",
+      "dateISO": "2025-11-30",
+      "timestamp": 1764460800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
     },
     {
       "award": "Gotham Awards",
@@ -2486,7 +2486,7 @@
     "annie-awards": "",
     "art-directors-guild-awards": "",
     "artios-awards-casting-society": "",
-    "astra-creative-arts-awards-hollywood-creative-alliance": "",
+    "astra-creative-arts-awards-hollywood-creative-alliance": "2025-11-19T20:54:48.540Z",
     "astra-film-awards-hollywood-creative-alliance": "",
     "atlanta-film-critics-circle-awards": "",
     "austin-film-critics-association-awards": "",
