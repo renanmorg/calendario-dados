@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-26T01:23:03.793Z",
+  "updatedAt": "2025-11-30T14:52:56.256Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -165,21 +165,6 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/ba2e8bb7-29b6-5156-b413-f146ea65_orig.jpg",
       "newsTitle": "\"Uma Batalha Após a Outra\" lidera o Astra Film Awards com 11 indicações, e Wagner Moura consegue sua primeira indicação em Ator em Drama com \"O Agente Secreto\"!",
       "slug": "astra-film-awards-hollywood-creative-alliance"
-    },
-    {
-      "award": "Prêmio Exclamação",
-      "status": "Início da votação aberta de nomeação",
-      "statusKey": "outro",
-      "date": "30/11/2025",
-      "dateISO": "2025-11-30",
-      "timestamp": 1764460800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
     },
     {
       "award": "Gotham Awards",
@@ -525,6 +510,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "austin-film-critics-association-awards"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Início da votação aberta de nomeação",
+      "statusKey": "outro",
+      "date": "10/12/2025",
+      "dateISO": "2025-12-10",
+      "timestamp": 1765324800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
     },
     {
       "award": "Astra Film Awards (Hollywood Creative Alliance)",
