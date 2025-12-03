@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-02T18:18:42.364Z",
+  "updatedAt": "2025-12-03T14:25:28.019Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -180,21 +180,6 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/onebattle01ma-batalha-ap-s-a-outraence-como-melhor-filme-no-gotham-awards-2025_orig.jpg",
       "newsTitle": "\"Uma Batalha Após a Outra\" vence como Melhor Filme no Gotham Awards 2025!",
       "slug": "gotham-awards"
-    },
-    {
-      "award": "Astra Creative Arts Awards (Hollywood Creative Alliance)",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "02/12/2025",
-      "dateISO": "2025-12-02",
-      "timestamp": 1764633600000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/7BrmYgM.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "astra-creative-arts-awards-hollywood-creative-alliance"
     },
     {
       "award": "New York Film Critics Circle Awards",
@@ -525,6 +510,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "premio-exclamacao"
+    },
+    {
+      "award": "Astra Creative Arts Awards (Hollywood Creative Alliance)",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "11/12/2025",
+      "dateISO": "2025-12-11",
+      "timestamp": 1765411200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/7BrmYgM.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "astra-creative-arts-awards-hollywood-creative-alliance"
     },
     {
       "award": "Astra Film Awards (Hollywood Creative Alliance)",
