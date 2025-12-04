@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-03T22:08:17.743Z",
+  "updatedAt": "2025-12-04T20:41:39.545Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -250,10 +250,10 @@
       "timestamp": 1764806400000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/SsYPKLI.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/com-pecadores-frankenstein-avatar-e-wicked-parte-2-o-afi-awards-2025-divulga-a-lista-com-os-10-melhores-filmes-do-ano",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/foto-afi-afi-afia-fi-afijet_orig.jpg",
+      "newsTitle": "Com \"Pecadores\", \"Frankenstein\", \"Avatar\" e \"Wicked - parte 2\"... O AFI Awards 2025 divulga a lista com os 10 melhores filmes do ano!",
       "slug": "afi-awards"
     },
     {
@@ -2478,7 +2478,7 @@
     }
   ],
   "lastLinkByAward": {
-    "afi-awards": "",
+    "afi-awards": "2025-12-04T20:41:39.545Z",
     "alliance-of-women-film-journalists-eda-awards": "",
     "ace-eddie-awards": "",
     "african-american-film-critics-association-awards": "",
