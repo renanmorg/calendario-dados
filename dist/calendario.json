@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-10T16:31:38.061Z",
+  "updatedAt": "2025-12-10T20:33:30.661Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -512,6 +512,21 @@
       "slug": "austin-film-critics-association-awards"
     },
     {
+      "award": "Phoenix Critics Circle Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "10/12/2025",
+      "dateISO": "2025-12-10",
+      "timestamp": 1765324800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/g94KeF7.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/uma-batalha-apos-a-outra-lidera-o-phoenix-critic-circle-awards-2025-jennifer-lawrence-volta-a-ser-indicada-em-atriz-por-morra-amor",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/die-my-love-movie-review-die-my-vleoeoo3045_orig.jpg",
+      "newsTitle": "\"Uma Batalha Após a Outra\" lidera o Phoenix Critic Circle Awards 2025! Jennifer Lawrence volta a ser indicada em Atriz por \"Morra, Amor\"!",
+      "slug": "phoenix-critics-circle-awards"
+    },
+    {
       "award": "Prêmio Exclamação",
       "status": "Início da votação aberta de nomeação",
       "statusKey": "outro",
@@ -573,8 +588,8 @@
     },
     {
       "award": "Phoenix Critics Circle Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
       "date": "11/12/2025",
       "dateISO": "2025-12-11",
       "timestamp": 1765411200000,
@@ -2342,21 +2357,6 @@
       "slug": "philadelphia-film-critics-circle-awards"
     },
     {
-      "award": "Phoenix Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/g94KeF7.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "phoenix-critics-circle-awards"
-    },
-    {
       "award": "Phoenix Film Critics Society Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2535,7 +2535,7 @@
     "online-film-critics-society-awards": "",
     "oscar": "",
     "philadelphia-film-critics-circle-awards": "",
-    "phoenix-critics-circle-awards": "",
+    "phoenix-critics-circle-awards": "2025-12-10T20:33:30.661Z",
     "phoenix-film-critics-society-awards": "",
     "premio-exclamacao": "",
     "producers-guild-of-america-awards": "2025-12-10T16:31:38.061Z",
