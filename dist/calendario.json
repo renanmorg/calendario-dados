@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-10T20:33:30.661Z",
+  "updatedAt": "2025-12-11T03:28:14.436Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -527,21 +527,6 @@
       "slug": "phoenix-critics-circle-awards"
     },
     {
-      "award": "Prêmio Exclamação",
-      "status": "Início da votação aberta de nomeação",
-      "statusKey": "outro",
-      "date": "10/12/2025",
-      "dateISO": "2025-12-10",
-      "timestamp": 1765324800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
-    },
-    {
       "award": "Astra Creative Arts Awards (Hollywood Creative Alliance)",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -735,6 +720,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "phoenix-film-critics-society-awards"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Início da votação aberta de nomeação",
+      "statusKey": "outro",
+      "date": "15/12/2025",
+      "dateISO": "2025-12-15",
+      "timestamp": 1765756800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
     },
     {
       "award": "Seattle Film Critics Society Awards",
