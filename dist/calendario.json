@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2025-12-13T15:42:42.341Z",
+  "updatedAt": "2025-12-13T17:58:02.228Z",
   "items": [
-    {
-      "award": "Astra Film Awards (Hollywood Creative Alliance)",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "09/01/2025",
-      "dateISO": "2025-01-09",
-      "timestamp": 1736380800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/7BrmYgM.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "astra-film-awards-hollywood-creative-alliance"
-    },
     {
       "award": "Critics Choice Documentary Awards",
       "status": "Anúncio dos Indicados",
@@ -1095,6 +1080,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "directors-guild-of-america-awards"
+    },
+    {
+      "award": "Astra Film Awards (Hollywood Creative Alliance)",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "09/01/2026",
+      "dateISO": "2026-01-09",
+      "timestamp": 1767916800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/7BrmYgM.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "astra-film-awards-hollywood-creative-alliance"
     },
     {
       "award": "BAFTA",
