@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-13T22:45:18.076Z",
+  "updatedAt": "2025-12-15T13:13:30.288Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -602,6 +602,21 @@
       "slug": "san-francisco-bay-area-film-critics-circle-awards"
     },
     {
+      "award": "San Diego Film Critics Society Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "14/12/2025",
+      "dateISO": "2025-12-14",
+      "timestamp": 1765670400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/bQIvzjr.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-lidera-com-12-indicacoes-o-san-diego-film-critics-society-awards-2025-wagner-moura-e-indicado-em-ator-por-o-agente-secreto",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/published/agentetennetee-secrtut-ti-123-46-8-9-9-9-90.jpg?1765723584",
+      "newsTitle": "\"Pecadores\" lidera com 12 indicações o San Diego Film Critics Society Awards 2025, Wagner Moura é indicado em Ator por \"O Agente Secreto\"!",
+      "slug": "san-diego-film-critics-society-awards"
+    },
+    {
       "award": "San Francisco Bay Area Film Critics Circle Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -720,6 +735,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "premio-exclamacao"
+    },
+    {
+      "award": "San Diego Film Critics Society Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "15/12/2025",
+      "dateISO": "2025-12-15",
+      "timestamp": 1765756800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/bQIvzjr.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "san-diego-film-critics-society-awards"
     },
     {
       "award": "Seattle Film Critics Society Awards",
@@ -1802,6 +1832,21 @@
       "slug": "oscar"
     },
     {
+      "award": "Boston Society of Film Critics Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "15/12/2026",
+      "dateISO": "2026-12-15",
+      "timestamp": 1797292800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/IaLKAWv.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/boston-society-of-film-critics-awards-2025-premia-pecadores-como-melhor-filme-do-ano",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/mcdsinn-wb037-c5174co-vencedor-em-melhor-ator-pelos-cr-ticos-de-boston_orig.jpg",
+      "newsTitle": "Boston Society of Film Critics Awards 2025 premia \"Pecadores\" como Melhor Filme do ano!",
+      "slug": "boston-society-of-film-critics-awards"
+    },
+    {
       "award": "Artios Awards (Casting Society)",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1920,21 +1965,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "black-film-critics-circle-awards"
-    },
-    {
-      "award": "Boston Society of Film Critics Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/IaLKAWv.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "boston-society-of-film-critics-awards"
     },
     {
       "award": "Boston Society of Film Critics Awards",
@@ -2372,36 +2402,6 @@
       "slug": "phoenix-film-critics-society-awards"
     },
     {
-      "award": "San Diego Film Critics Society Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/bQIvzjr.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "san-diego-film-critics-society-awards"
-    },
-    {
-      "award": "San Diego Film Critics Society Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/bQIvzjr.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "san-diego-film-critics-society-awards"
-    },
-    {
       "award": "Southeastern Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2492,7 +2492,7 @@
     "austin-film-critics-association-awards": "2025-12-12T21:14:57.391Z",
     "bafta": "",
     "black-film-critics-circle-awards": "",
-    "boston-society-of-film-critics-awards": "",
+    "boston-society-of-film-critics-awards": "2025-12-15T13:13:30.288Z",
     "chicago-film-critics-association-awards": "2025-12-13T15:42:42.341Z",
     "chicago-independent-film-critics-circle-awards": "",
     "cinema-audio-society-awards": "",
@@ -2540,7 +2540,7 @@
     "premio-exclamacao": "",
     "producers-guild-of-america-awards": "2025-12-10T16:31:38.061Z",
     "sag-awards": "",
-    "san-diego-film-critics-society-awards": "",
+    "san-diego-film-critics-society-awards": "2025-12-15T13:13:30.288Z",
     "san-francisco-bay-area-film-critics-circle-awards": "2025-12-13T22:40:53.778Z",
     "satellite-awards": "",
     "seattle-film-critics-society-awards": "2025-12-06T19:22:55.730Z",
