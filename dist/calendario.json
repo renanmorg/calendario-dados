@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-15T22:50:03.223Z",
+  "updatedAt": "2025-12-16T04:44:54.867Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -722,21 +722,6 @@
       "slug": "phoenix-film-critics-society-awards"
     },
     {
-      "award": "Prêmio Exclamação",
-      "status": "Início da votação aberta de nomeação",
-      "statusKey": "outro",
-      "date": "15/12/2025",
-      "dateISO": "2025-12-15",
-      "timestamp": 1765756800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
-    },
-    {
       "award": "San Diego Film Critics Society Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -810,6 +795,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "oscar"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Início da votação aberta de nomeação",
+      "statusKey": "outro",
+      "date": "16/12/2025",
+      "dateISO": "2025-12-16",
+      "timestamp": 1765843200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
     },
     {
       "award": "Satellite Awards",
@@ -1157,21 +1157,6 @@
       "slug": "producers-guild-of-america-awards"
     },
     {
-      "award": "Prêmio Exclamação",
-      "status": "Fim da votação de nomeação",
-      "statusKey": "outro",
-      "date": "10/01/2026",
-      "dateISO": "2026-01-10",
-      "timestamp": 1768003200000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
-    },
-    {
       "award": "Globo de Ouro",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -1290,6 +1275,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "oscar"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Fim da votação de nomeação",
+      "statusKey": "outro",
+      "date": "16/01/2026",
+      "dateISO": "2026-01-16",
+      "timestamp": 1768521600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
     },
     {
       "award": "European Film Awards",
