@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-17T13:50:13.923Z",
+  "updatedAt": "2025-12-17T13:57:41.479Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -662,6 +662,21 @@
       "slug": "indiana-film-journalists-association-awards"
     },
     {
+      "award": "Kansas City Film Critics Circle Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "15/12/2025",
+      "dateISO": "2025-12-15",
+      "timestamp": 1765756800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/Vlse6YN.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/vivo-ou-morto-um-misterio-knives-out-se-destaca-entre-os-lideres-de-indicacoes-no-kansas-city-film-critics-circle-awards-2025",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/published/aaaabujpdkfo4txbfwlfuytm7rcff2un.jpg?1765976078",
+      "newsTitle": "\"Vivo ou Morto: Um Mistério Knives Out\" se destaca entre os líderes de indicações no Kansas City Film Critics Circle Awards 2025!",
+      "slug": "kansas-city-film-critics-circle-awards"
+    },
+    {
       "award": "Las Vegas Film Critics Society Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -960,6 +975,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "utah-film-critics-association-awards"
+    },
+    {
+      "award": "Kansas City Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "21/12/2025",
+      "dateISO": "2025-12-21",
+      "timestamp": 1766275200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/Vlse6YN.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "kansas-city-film-critics-circle-awards"
     },
     {
       "award": "Georgia Film Critics Association Awards",
@@ -2192,36 +2222,6 @@
       "slug": "iowa-film-critics-association-awards"
     },
     {
-      "award": "Kansas City Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/Vlse6YN.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "kansas-city-film-critics-circle-awards"
-    },
-    {
-      "award": "Kansas City Film Critics Circle Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/Vlse6YN.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "kansas-city-film-critics-circle-awards"
-    },
-    {
       "award": "Los Angeles Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2516,7 +2516,7 @@
     "independent-spirit-awards": "2025-12-03T16:44:12.247Z",
     "indiana-film-journalists-association-awards": "2025-12-17T13:50:13.923Z",
     "iowa-film-critics-association-awards": "",
-    "kansas-city-film-critics-circle-awards": "",
+    "kansas-city-film-critics-circle-awards": "2025-12-17T13:57:41.479Z",
     "las-vegas-film-critics-society-awards": "2025-12-17T13:50:13.923Z",
     "london-film-critics-circle-awards": "2025-12-15T22:50:03.223Z",
     "los-angeles-film-critics-association-awards": "2025-12-08T00:31:56.392Z",
