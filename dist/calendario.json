@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-17T13:57:41.479Z",
+  "updatedAt": "2025-12-17T22:41:20.091Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -730,10 +730,10 @@
       "timestamp": 1765756800000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/MeAiphC.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/uma-batalha-apos-a-outra-vence-como-melhor-filme-e-entrega-premios-para-4-dos-seus-atores-incluindo-sean-penn-como-ator-coadjuvante-no-phoenix-film-critics-society-awards-2025",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/sena-pen-brutalistdo-melhor-ator-para-ralph-fiennes-no-phoenix-film-critics-society-awards-2024_orig.jpg",
+      "newsTitle": "\"Uma Batalha Após a Outra\" vence como Melhor Filme e entrega prêmios para 4 dos seus atores, incluindo Sean Penn como Ator Coadjuvante, no Phoenix Film Critics Society Awards 2025!",
       "slug": "phoenix-film-critics-society-awards"
     },
     {
@@ -745,10 +745,10 @@
       "timestamp": 1765756800000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/bQIvzjr.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-vence-como-melhor-filme-e-melhor-ator-para-michael-b-jordan-no-san-diego-film-critics-society-awards-2025",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/g7ven4yxcaax89wa-associa-o-de-cr-ticos-de-san-diego-entregou-os-seu-pr-mios-finalizando-um-dia-com-muitas-premia-es_orig.jpg",
+      "newsTitle": "\"Pecadores\" vence como Melhor Filme e Melhor Ator para Michael B. Jordan no San Diego Film Critics Society Awards 2025!",
       "slug": "san-diego-film-critics-society-awards"
     },
     {
@@ -795,6 +795,21 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/train-dreams-u-00-19-06-13-r-e17_orig.jpg",
       "newsTitle": "\"Frankenstein\", \"Sonhos de Trem\", \"Hamnet\"... Veja os indicados ao USC Scripter Awards 2026, a premiação que se tornou o maior termômetro para a categoria de Roteiro Adaptado!",
       "slug": "usc-scripter-awards"
+    },
+    {
+      "award": "Florida Film Critics Circle Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "16/12/2025",
+      "dateISO": "2025-12-16",
+      "timestamp": 1765843200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/DlYPHss.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/o-agente-secreto-recebe-4-indicacoes-no-florida-film-critics-circle-awards-2025-incluindo-melhor-direcao-de-arte-e-melhor-ator-para-wagner-moura",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/published/g8yhvb2x0aafwi1florida-film-critics-circle-awards-2025.jpg?1765981236",
+      "newsTitle": "\"O Agente Secreto\" recebe 4 indicações no Florida Film Critics Circle Awards 2025, incluindo Melhor Direção de Arte e Melhor Ator para Wagner Moura!",
+      "slug": "florida-film-critics-circle-awards"
     },
     {
       "award": "Oscar",
@@ -900,6 +915,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "online-association-of-female-film-critics-awards"
+    },
+    {
+      "award": "Florida Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "19/12/2025",
+      "dateISO": "2025-12-19",
+      "timestamp": 1766102400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/DlYPHss.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "florida-film-critics-circle-awards"
     },
     {
       "award": "Georgia Film Critics Association Awards",
@@ -2087,36 +2117,6 @@
       "slug": "dallas-fort-worth-film-critics-association-awards"
     },
     {
-      "award": "Florida Film Critics Circle Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/DlYPHss.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "florida-film-critics-circle-awards"
-    },
-    {
-      "award": "Florida Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/DlYPHss.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "florida-film-critics-circle-awards"
-    },
-    {
       "award": "Framboesa de Ouro",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2504,7 +2504,7 @@
     "dallas-fort-worth-film-critics-association-awards": "",
     "directors-guild-of-america-awards": "",
     "european-film-awards": "2025-11-18T15:35:16.964Z",
-    "florida-film-critics-circle-awards": "",
+    "florida-film-critics-circle-awards": "2025-12-17T22:41:20.091Z",
     "framboesa-de-ouro": "",
     "galeca-the-society-of-lgbtq-entertainment-critics-awards": "",
     "georgia-film-critics-association-awards": "",
@@ -2536,11 +2536,11 @@
     "oscar": "",
     "philadelphia-film-critics-circle-awards": "",
     "phoenix-critics-circle-awards": "2025-12-12T21:14:57.391Z",
-    "phoenix-film-critics-society-awards": "",
+    "phoenix-film-critics-society-awards": "2025-12-17T22:41:20.091Z",
     "premio-exclamacao": "",
     "producers-guild-of-america-awards": "2025-12-10T16:31:38.061Z",
     "sag-awards": "",
-    "san-diego-film-critics-society-awards": "2025-12-15T13:13:30.288Z",
+    "san-diego-film-critics-society-awards": "2025-12-17T22:41:20.091Z",
     "san-francisco-bay-area-film-critics-circle-awards": "2025-12-15T22:50:03.223Z",
     "satellite-awards": "",
     "seattle-film-critics-society-awards": "2025-12-06T19:22:55.730Z",
