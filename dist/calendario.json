@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-25T14:34:41.719Z",
+  "updatedAt": "2025-12-25T14:45:51.464Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1022,6 +1022,21 @@
       "slug": "kansas-city-film-critics-circle-awards"
     },
     {
+      "award": "North Texas Film Critics Association Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "22/12/2025",
+      "dateISO": "2025-12-22",
+      "timestamp": 1766361600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/7gtBnfr.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/uma-batalha-apos-a-outra-lidera-as-indicacoes-no-north-texas-film-critics-awards-2025-e-dwayne-johnson-volta-a-ser-indicado-em-melhor-ator-por-coracao-de-lutador",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/02cul-smashingmachine-review1-bj_orig.jpg",
+      "newsTitle": "\"Uma Batalha Após a Outra\" lidera as indicações no North Texas Film Critics Awards 2025, e Dwayne Johnson volta a ser indicado em Melhor Ator por \"Coração de Lutador\"!",
+      "slug": "north-texas-film-critics-association-awards"
+    },
+    {
       "award": "Georgia Film Critics Association Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -1050,6 +1065,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "make-up-artists-and-hair-stylist-guild-awards"
+    },
+    {
+      "award": "North Texas Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "29/12/2025",
+      "dateISO": "2025-12-29",
+      "timestamp": 1766966400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/7gtBnfr.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "north-texas-film-critics-association-awards"
     },
     {
       "award": "National Society of Film Critics Awards",
@@ -2312,36 +2342,6 @@
       "slug": "new-york-film-critics-circle-awards"
     },
     {
-      "award": "North Texas Film Critics Association Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/7gtBnfr.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "north-texas-film-critics-association-awards"
-    },
-    {
-      "award": "North Texas Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/7gtBnfr.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "north-texas-film-critics-association-awards"
-    },
-    {
       "award": "Oklahoma Film Critics Circle Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -2529,7 +2529,7 @@
     "new-york-film-critics-circle-awards": "2025-12-02T18:17:25.748Z",
     "new-york-film-critics-online-awards": "2025-12-19T02:21:14.215Z",
     "north-carolina-film-critics-association-awards": "",
-    "north-texas-film-critics-association-awards": "",
+    "north-texas-film-critics-association-awards": "2025-12-25T14:45:51.464Z",
     "oklahoma-film-critics-circle-awards": "",
     "online-association-of-female-film-critics-awards": "2025-12-25T14:28:23.702Z",
     "online-film-critics-society-awards": "",
