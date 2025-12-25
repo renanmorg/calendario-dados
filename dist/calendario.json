@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-25T14:53:34.113Z",
+  "updatedAt": "2025-12-25T15:17:53.824Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1037,6 +1037,21 @@
       "slug": "kansas-city-film-critics-circle-awards"
     },
     {
+      "award": "Alliance of Women Film Journalists EDA Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "22/12/2025",
+      "dateISO": "2025-12-22",
+      "timestamp": 1766361600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/QTJKBX3.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "alliance-of-women-film-journalists-eda-awards"
+    },
+    {
       "award": "North Texas Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1110,6 +1125,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "national-society-of-film-critics-awards"
+    },
+    {
+      "award": "Columbus Film Critics Association Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "04/01/2026",
+      "dateISO": "2026-01-04",
+      "timestamp": 1767484800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/08Ax3JK.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "columbus-film-critics-association-awards"
     },
     {
       "award": "Critics Choice Movie Awards",
@@ -1200,6 +1230,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "cinema-eye-honors-awards"
+    },
+    {
+      "award": "Columbus Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "08/01/2026",
+      "dateISO": "2026-01-08",
+      "timestamp": 1767830400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/08Ax3JK.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "columbus-film-critics-association-awards"
     },
     {
       "award": "Directors Guild of America Awards",
@@ -1337,6 +1382,21 @@
       "slug": "oscar"
     },
     {
+      "award": "Houston Film Critics Society Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "13/01/2026",
+      "dateISO": "2026-01-13",
+      "timestamp": 1768262400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/DKTYUjB.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "houston-film-critics-society-awards"
+    },
+    {
       "award": "Visual Effects Society Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1412,6 +1472,21 @@
       "slug": "european-film-awards"
     },
     {
+      "award": "Utah Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "17/01/2026",
+      "dateISO": "2026-01-17",
+      "timestamp": 1768608000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/TesXUFj.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "utah-film-critics-association-awards"
+    },
+    {
       "award": "Cinema Audio Society Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1425,6 +1500,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "cinema-audio-society-awards"
+    },
+    {
+      "award": "Houston Film Critics Society Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "20/01/2026",
+      "dateISO": "2026-01-20",
+      "timestamp": 1768867200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/DKTYUjB.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "houston-film-critics-society-awards"
     },
     {
       "award": "Prêmio Exclamação",
@@ -1998,21 +2088,6 @@
     },
     {
       "award": "Alliance of Women Film Journalists EDA Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/QTJKBX3.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "alliance-of-women-film-journalists-eda-awards"
-    },
-    {
-      "award": "Alliance of Women Film Journalists EDA Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
       "date": "",
@@ -2102,36 +2177,6 @@
       "slug": "chicago-independent-film-critics-circle-awards"
     },
     {
-      "award": "Columbus Film Critics Association Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/08Ax3JK.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "columbus-film-critics-association-awards"
-    },
-    {
-      "award": "Columbus Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/08Ax3JK.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "columbus-film-critics-association-awards"
-    },
-    {
       "award": "Dallas-Fort Worth Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2175,36 +2220,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "framboesa-de-ouro"
-    },
-    {
-      "award": "Houston Film Critics Society Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/DKTYUjB.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "houston-film-critics-society-awards"
-    },
-    {
-      "award": "Houston Film Critics Society Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/DKTYUjB.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "houston-film-critics-society-awards"
     },
     {
       "award": "IDA Documentary Awards",
@@ -2430,21 +2445,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "toronto-film-critics-association-awards"
-    },
-    {
-      "award": "Utah Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/TesXUFj.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "utah-film-critics-association-awards"
     },
     {
       "award": "Vancouver Film Critics Circle Awards",
