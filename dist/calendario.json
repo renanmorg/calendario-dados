@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-25T14:50:40.088Z",
+  "updatedAt": "2025-12-25T14:53:34.113Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -900,6 +900,21 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/entretenimento-o-agente-secreto_orig.jpg",
       "newsTitle": "\"O Agente Secreto\" vence como Melhor Filme Internacional e \"Uma Batalha Após a Outra\" como Melhor Filme no Austin Film Critics Association Awards 2025!",
       "slug": "austin-film-critics-association-awards"
+    },
+    {
+      "award": "Black Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "18/12/2025",
+      "dateISO": "2025-12-18",
+      "timestamp": 1766016000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/3LKLIiX.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-leva-sete-premios-incluindo-melhor-filme-no-black-film-critics-circle-awards-2025",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/sinners-sinnerssinnerssinnerssinnerssinners234457800_orig.jpg",
+      "newsTitle": "\"Pecadores\" leva sete prêmios, incluindo Melhor Filme, no Black Film Critics Circle Awards 2025!",
+      "slug": "black-film-critics-circle-awards"
     },
     {
       "award": "Online Association of Female Film Critics Awards",
@@ -2025,21 +2040,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "atlanta-film-critics-circle-awards"
-    },
-    {
-      "award": "Black Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/3LKLIiX.png",
-      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-leva-sete-premios-incluindo-melhor-filme-no-black-film-critics-circle-awards-2025",
-      "pageUrl": "",
-      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/sinners-sinnerssinnerssinnerssinnerssinners234457800_orig.jpg",
-      "newsTitle": "\"Pecadores\" leva sete prêmios, incluindo Melhor Filme, no Black Film Critics Circle Awards 2025!",
-      "slug": "black-film-critics-circle-awards"
     },
     {
       "award": "Black Film Critics Circle Awards",
