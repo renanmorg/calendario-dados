@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-03T16:23:37.624Z",
+  "updatedAt": "2026-01-03T16:26:55.892Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1127,6 +1127,21 @@
       "slug": "north-texas-film-critics-association-awards"
     },
     {
+      "award": "Alliance of Women Film Journalists EDA Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "31/12/2025",
+      "dateISO": "2025-12-31",
+      "timestamp": 1767139200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/QTJKBX3.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-vence-como-melhor-filme-direcao-e-melhor-ator-para-michael-b-jordan-no-eda-awards-2025",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/g9qmdvxxiaa1xsupr-mio-eda-de-foco-feminino_orig.jpg",
+      "newsTitle": "\"Pecadores\" vence como Melhor Filme, Direção e Melhor Ator para Michael B. Jordan no EDA Awards 2025!",
+      "slug": "alliance-of-women-film-journalists-eda-awards"
+    },
+    {
       "award": "National Society of Film Critics Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -2102,21 +2117,6 @@
       "slug": "african-american-film-critics-association-awards"
     },
     {
-      "award": "Alliance of Women Film Journalists EDA Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/QTJKBX3.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "alliance-of-women-film-journalists-eda-awards"
-    },
-    {
       "award": "Atlanta Film Critics Circle Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2479,7 +2479,7 @@
   ],
   "lastLinkByAward": {
     "afi-awards": "2025-12-04T20:41:39.545Z",
-    "alliance-of-women-film-journalists-eda-awards": "2025-12-28T02:36:45.172Z",
+    "alliance-of-women-film-journalists-eda-awards": "2026-01-03T16:26:55.892Z",
     "ace-eddie-awards": "",
     "african-american-film-critics-association-awards": "2025-12-09T23:12:19.142Z",
     "american-society-of-cinematographers-awards": "",
