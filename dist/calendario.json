@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-03T16:18:35.037Z",
+  "updatedAt": "2026-01-03T16:23:37.624Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1080,6 +1080,21 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/g8-nx8ob0aegzv4timoth-e-chalamet_orig.jpg",
       "newsTitle": "\"Uma Batalha Após a Outra\" vence como Melhor Filme, e Timothée Chalamet é Melhor Ator por \"Marty Supreme\" no Georgia Film Critics Association Awards 2025!",
       "slug": "georgia-film-critics-association-awards"
+    },
+    {
+      "award": "Iowa Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "28/12/2025",
+      "dateISO": "2025-12-28",
+      "timestamp": 1766880000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/YWALoLJ.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/hamnet-vence-em-melhor-filme-no-iowa-film-critics-association-awards-2025-jessie-buckley-e-melhor-atriz",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/g8uf-nqxcaagxbest-filmbest-filmbest-filmog_orig.jpg",
+      "newsTitle": "\"Hamnet\" vence em Melhor Filme no Iowa Film Critics Association Awards 2025! Jessie Buckley é Melhor Atriz!",
+      "slug": "iowa-film-critics-association-awards"
     },
     {
       "award": "Make-Up Artists and Hair Stylist Guild Awards",
@@ -2238,21 +2253,6 @@
     },
     {
       "award": "Iowa Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/YWALoLJ.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "iowa-film-critics-association-awards"
-    },
-    {
-      "award": "Iowa Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -2515,7 +2515,7 @@
     "ida-documentary-awards": "2025-12-07T17:55:02.360Z",
     "independent-spirit-awards": "2025-12-03T16:44:12.247Z",
     "indiana-film-journalists-association-awards": "2025-12-17T13:50:13.923Z",
-    "iowa-film-critics-association-awards": "",
+    "iowa-film-critics-association-awards": "2026-01-03T16:23:37.624Z",
     "kansas-city-film-critics-circle-awards": "2025-12-28T02:39:44.278Z",
     "las-vegas-film-critics-society-awards": "2025-12-23T10:27:32.452Z",
     "london-film-critics-circle-awards": "2025-12-15T22:50:03.223Z",
