@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-03T16:26:55.892Z",
+  "updatedAt": "2026-01-05T09:34:00.566Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1150,10 +1150,10 @@
       "timestamp": 1767398400000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/N09M5Ir.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/o-agente-secreto-vence-como-melhor-filme-internacional-no-national-society-of-film-critics-awards-2026-uma-batalha-apos-a-outra-vence-como-melhor-filme",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/published/g8nvnrywcaaxh-vkathleen-chalfant-por-que-familiar.jpg?1767530595",
+      "newsTitle": "\"O Agente Secreto\" vence como Melhor Filme Internacional no National Society of Film Critics Awards 2026! \"Uma Batalha Após a Outra\" vence como Melhor Filme!",
       "slug": "national-society-of-film-critics-awards"
     },
     {
@@ -2072,21 +2072,6 @@
       "slug": "boston-society-of-film-critics-awards"
     },
     {
-      "award": "Artios Awards (Casting Society)",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "17/12/2026",
-      "dateISO": "2026-12-17",
-      "timestamp": 1797465600000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/UbvehH5.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "artios-awards-casting-society"
-    },
-    {
       "award": "AFI Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2115,6 +2100,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "african-american-film-critics-association-awards"
+    },
+    {
+      "award": "Artios Awards (Casting Society)",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "",
+      "dateISO": "",
+      "timestamp": 0,
+      "hasDate": false,
+      "imageUrl": "https://i.imgur.com/UbvehH5.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "artios-awards-casting-society"
     },
     {
       "award": "Atlanta Film Critics Circle Awards",
@@ -2524,7 +2524,7 @@
     "michigan-movie-critics-guild-awards": "2025-12-12T21:14:57.391Z",
     "mpse-golden-reel-awards": "",
     "national-board-of-review-awards": "2025-12-03T22:08:17.743Z",
-    "national-society-of-film-critics-awards": "",
+    "national-society-of-film-critics-awards": "2026-01-05T09:34:00.566Z",
     "nevada-film-critics-society-awards": "",
     "new-york-film-critics-circle-awards": "2025-12-02T18:17:25.748Z",
     "new-york-film-critics-online-awards": "2025-12-19T02:21:14.215Z",
