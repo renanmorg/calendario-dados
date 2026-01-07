@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-07T02:42:59.059Z",
+  "updatedAt": "2026-01-07T18:45:26.583Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1202,6 +1202,21 @@
       "slug": "annie-awards"
     },
     {
+      "award": "Chicago Independent Film Critics Circle Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "06/01/2026",
+      "dateISO": "2026-01-06",
+      "timestamp": 1767657600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/omkFAet.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-lidera-com-18-indicacoes-no-chicago-indie-critics-awards-2025-exterminio-a-evolucao-chama-atencao-indicado-em-melhor-filme",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/g9c-p4wwy28-years-later28-years-lateraapwkv_orig.jpg",
+      "newsTitle": "\"Pecadores\" lidera com 18 indicações no Chicago Indie Critics Awards 2025! \"Extermínio: A Evolução\" chama atenção indicado em Melhor Filme!",
+      "slug": "chicago-independent-film-critics-circle-awards"
+    },
+    {
       "award": "Art Directors Guild Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1455,6 +1470,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "galeca-the-society-of-lgbtq-entertainment-critics-awards"
+    },
+    {
+      "award": "Chicago Independent Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "15/01/2026",
+      "dateISO": "2026-01-15",
+      "timestamp": 1768435200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/omkFAet.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "chicago-independent-film-critics-circle-awards"
     },
     {
       "award": "Oscar",
@@ -2162,36 +2192,6 @@
       "slug": "boston-society-of-film-critics-awards"
     },
     {
-      "award": "Chicago Independent Film Critics Circle Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/omkFAet.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "chicago-independent-film-critics-circle-awards"
-    },
-    {
-      "award": "Chicago Independent Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/omkFAet.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "chicago-independent-film-critics-circle-awards"
-    },
-    {
       "award": "Dallas-Fort Worth Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2494,7 +2494,7 @@
     "black-film-critics-circle-awards": "2025-12-25T14:50:40.088Z",
     "boston-society-of-film-critics-awards": "2025-12-15T13:13:30.288Z",
     "chicago-film-critics-association-awards": "2025-12-13T15:42:42.341Z",
-    "chicago-independent-film-critics-circle-awards": "",
+    "chicago-independent-film-critics-circle-awards": "2026-01-07T18:45:26.583Z",
     "cinema-audio-society-awards": "",
     "cinema-eye-honors-awards": "2025-11-13T22:39:33.557Z",
     "columbus-film-critics-association-awards": "2026-01-07T02:39:57.126Z",
