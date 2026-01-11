@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-11T23:04:38.781Z",
+  "updatedAt": "2026-01-11T23:06:23.766Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1307,6 +1307,21 @@
       "slug": "directors-guild-of-america-awards"
     },
     {
+      "award": "Artios Awards (Casting Society)",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "09/01/2026",
+      "dateISO": "2026-01-09",
+      "timestamp": 1767916800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/UbvehH5.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/com-3-indicacoes-para-douglas-aibel-por-jay-kelly-o-esquema-fenicio-e-amores-materialistas-conheca-os-indicados-do-artios-awards-2026-a-premiacao-dos-diretores-de-elenco",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/jay-kelly-filme-da-netflix-com-g_orig.jpg",
+      "newsTitle": "Com 3 indicações para Douglas Aibel, por \"Jay Kelly\", \"O Esquema Fenício\" e \"Amores Materialistas\", conheça os indicados do Artios Awards 2026, a premiação dos diretores de elenco!",
+      "slug": "artios-awards-casting-society"
+    },
+    {
       "award": "Astra Film Awards (Hollywood Creative Alliance)",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -2132,21 +2147,6 @@
       "slug": "african-american-film-critics-association-awards"
     },
     {
-      "award": "Artios Awards (Casting Society)",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/UbvehH5.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "artios-awards-casting-society"
-    },
-    {
       "award": "Atlanta Film Critics Circle Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2485,7 +2485,7 @@
     "american-society-of-cinematographers-awards": "2026-01-09T00:55:42.830Z",
     "annie-awards": "2026-01-07T02:42:59.059Z",
     "art-directors-guild-awards": "2026-01-07T18:47:36.140Z",
-    "artios-awards-casting-society": "",
+    "artios-awards-casting-society": "2026-01-11T23:06:23.766Z",
     "astra-creative-arts-awards-hollywood-creative-alliance": "2025-12-13T15:42:42.341Z",
     "astra-film-awards-hollywood-creative-alliance": "2026-01-11T23:04:38.781Z",
     "atlanta-film-critics-circle-awards": "2025-12-03T15:58:21.148Z",
