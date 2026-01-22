@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T03:29:00.577Z",
+  "updatedAt": "2026-01-22T03:30:06.777Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1637,6 +1637,21 @@
       "slug": "premio-exclamacao"
     },
     {
+      "award": "Vancouver Film Critics Circle Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "21/01/2026",
+      "dateISO": "2026-01-21",
+      "timestamp": 1768953600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/5lXqvHC.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/uma-batalha-apos-a-outra-lidera-com-7-indicacoes-no-vancouver-film-critics-awards-2025",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "vancouver-film-critics-circle-awards"
+    },
+    {
       "award": "Oscar",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1875,6 +1890,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "bafta"
+    },
+    {
+      "award": "Vancouver Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "23/02/2026",
+      "dateISO": "2026-02-23",
+      "timestamp": 1771804800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/5lXqvHC.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "vancouver-film-critics-circle-awards"
     },
     {
       "award": "Visual Effects Society Awards",
@@ -2445,36 +2475,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "toronto-film-critics-association-awards"
-    },
-    {
-      "award": "Vancouver Film Critics Circle Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/5lXqvHC.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "vancouver-film-critics-circle-awards"
-    },
-    {
-      "award": "Vancouver Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/5lXqvHC.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "vancouver-film-critics-circle-awards"
     }
   ],
   "lastLinkByAward": {
@@ -2550,7 +2550,7 @@
     "toronto-film-critics-association-awards": "2025-12-08T00:31:56.392Z",
     "usc-scripter-awards": "2025-12-15T22:50:03.223Z",
     "utah-film-critics-association-awards": "2026-01-22T03:21:10.495Z",
-    "vancouver-film-critics-circle-awards": "",
+    "vancouver-film-critics-circle-awards": "2026-01-22T03:30:06.777Z",
     "visual-effects-society-awards": "2026-01-19T03:27:33.301Z",
     "washington-dc-area-film-critics-association-awards": "2025-12-09T15:14:34.369Z",
     "writers-guild-of-america-awards": "",
