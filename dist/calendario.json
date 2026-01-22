@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T03:25:54.155Z",
+  "updatedAt": "2026-01-22T03:29:00.577Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1607,6 +1607,21 @@
       "slug": "houston-film-critics-society-awards"
     },
     {
+      "award": "Framboesa de Ouro",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "21/01/2026",
+      "dateISO": "2026-01-21",
+      "timestamp": 1768953600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/NsDo6YJ.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/com-6-indicacoes-guerra-dos-mundos-e-branca-de-neve-lideram-o-framboesa-de-ouro-2026-isis-valverde-e-indicada-em-pior-atriz-coadjuvante-por-codigo-alarum",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/wtihoiuidrbipnaysg4kdfy25i-alarurmr_orig.jpg",
+      "newsTitle": "Com 6 indicações, \"Guerra dos Mundos\" e \"Branca de Neve\" lideram o Framboesa de Ouro 2026! Isis Valverde é Indicada em Pior Atriz Coadjuvante por \"Código Alarum\"!",
+      "slug": "framboesa-de-ouro"
+    },
+    {
       "award": "Prêmio Exclamação",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2223,21 +2238,6 @@
     },
     {
       "award": "Framboesa de Ouro",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/NsDo6YJ.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "framboesa-de-ouro"
-    },
-    {
-      "award": "Framboesa de Ouro",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
       "date": "",
@@ -2505,7 +2505,7 @@
     "directors-guild-of-america-awards": "2026-01-09T00:54:41.245Z",
     "european-film-awards": "2026-01-19T03:31:37.114Z",
     "florida-film-critics-circle-awards": "2025-12-25T14:31:28.886Z",
-    "framboesa-de-ouro": "",
+    "framboesa-de-ouro": "2026-01-22T03:29:00.577Z",
     "galeca-the-society-of-lgbtq-entertainment-critics-awards": "2026-01-19T03:28:47.088Z",
     "georgia-film-critics-association-awards": "2025-12-29T22:06:39.896Z",
     "globo-de-ouro": "2026-01-12T17:34:37.288Z",
