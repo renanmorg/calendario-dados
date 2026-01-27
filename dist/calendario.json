@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-22T03:37:16.630Z",
+  "updatedAt": "2026-01-27T02:45:27.290Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -1660,10 +1660,10 @@
       "timestamp": 1769040000000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/guBEPZm.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/pecadores-bate-recorde-historico-com-16-indicacoes-ao-oscar-2026",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/screenshot-2025-05-28-at-12-33-4sinners_orig.jpg",
+      "newsTitle": "\"Pecadores\" bate recorde histórico com 16 indicações ao Oscar 2026! \"O Agente Secreto\" iguala feito de \"Cidade de Deus\" com 4 indicações!",
       "slug": "oscar"
     },
     {
@@ -2132,6 +2132,21 @@
       "slug": "writers-guild-of-america-awards"
     },
     {
+      "award": "Framboesa de Ouro",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "14/03/2026",
+      "dateISO": "2026-03-14",
+      "timestamp": 1773446400000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/NsDo6YJ.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "framboesa-de-ouro"
+    },
+    {
       "award": "Prêmio Exclamação",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -2265,21 +2280,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "dallas-fort-worth-film-critics-association-awards"
-    },
-    {
-      "award": "Framboesa de Ouro",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/NsDo6YJ.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "framboesa-de-ouro"
     },
     {
       "award": "IDA Documentary Awards",
@@ -2533,7 +2533,7 @@
     "oklahoma-film-critics-circle-awards": "2026-01-12T17:40:30.293Z",
     "online-association-of-female-film-critics-awards": "2025-12-25T14:28:23.702Z",
     "online-film-critics-society-awards": "2026-01-15T01:44:54.103Z",
-    "oscar": "",
+    "oscar": "2026-01-27T02:45:27.290Z",
     "philadelphia-film-critics-circle-awards": "2025-12-25T14:34:41.719Z",
     "phoenix-critics-circle-awards": "2025-12-12T21:14:57.391Z",
     "phoenix-film-critics-society-awards": "2025-12-17T22:41:20.091Z",
