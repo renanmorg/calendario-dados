@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T14:29:05.249Z",
+  "updatedAt": "2026-02-20T14:33:37.160Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -645,6 +645,21 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/published/07cul-weapons-review-kqgv-videos.jpg?1765815739",
       "newsTitle": "\"Uma Batalha Após a Outra\" vence como Melhor Filme e \"A Hora do Mal\" como Melhor Terror no St. Louis Film Critics Awards 2025!",
       "slug": "st-louis-film-critics-association-awards"
+    },
+    {
+      "award": "Boston Society of Film Critics Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "15/12/2025",
+      "dateISO": "2025-12-15",
+      "timestamp": 1765756800000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/IaLKAWv.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/boston-society-of-film-critics-awards-2025-premia-pecadores-como-melhor-filme-do-ano",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/mcdsinn-wb037-c5174co-vencedor-em-melhor-ator-pelos-cr-ticos-de-boston_orig.jpg",
+      "newsTitle": "Boston Society of Film Critics Awards 2025 premia \"Pecadores\" como Melhor Filme do ano!",
+      "slug": "boston-society-of-film-critics-awards"
     },
     {
       "award": "Indiana Film Journalists Association Awards",
@@ -2175,21 +2190,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "oscar"
-    },
-    {
-      "award": "Boston Society of Film Critics Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "15/12/2026",
-      "dateISO": "2026-12-15",
-      "timestamp": 1797292800000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/IaLKAWv.png",
-      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/boston-society-of-film-critics-awards-2025-premia-pecadores-como-melhor-filme-do-ano",
-      "pageUrl": "",
-      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/mcdsinn-wb037-c5174co-vencedor-em-melhor-ator-pelos-cr-ticos-de-boston_orig.jpg",
-      "newsTitle": "Boston Society of Film Critics Awards 2025 premia \"Pecadores\" como Melhor Filme do ano!",
-      "slug": "boston-society-of-film-critics-awards"
     },
     {
       "award": "AFI Awards",
