@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:08:06.326Z",
+  "updatedAt": "2026-10-05T16:51:33.800Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -315,6 +315,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "chicago-film-critics-association-awards"
+    },
+    {
+      "award": "Prêmio Exclamação",
+      "status": "Início da votação aberta de nomeação",
+      "statusKey": "outro",
+      "date": "13/12/2026",
+      "dateISO": "2026-12-13",
+      "timestamp": 1797120000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "premio-exclamacao"
     },
     {
       "award": "Seattle Film Critics Society Awards",
@@ -1275,21 +1290,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "oscar"
-    },
-    {
-      "award": "Prêmio Exclamação",
-      "status": "Início da votação aberta de nomeação",
-      "statusKey": "outro",
-      "date": "13/12/2027",
-      "dateISO": "2027-12-13",
-      "timestamp": 1828656000000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/pKC2eGl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "premio-exclamacao"
     },
     {
       "award": "AFI Awards",
