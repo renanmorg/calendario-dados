@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:47:49.724Z",
+  "updatedAt": "2026-10-29T11:30:29.142Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -32,21 +32,6 @@
       "slug": "european-film-awards"
     },
     {
-      "award": "IDA Documentary Awards",
-      "status": "Shortlist",
-      "statusKey": "outro",
-      "date": "22/10/2026",
-      "dateISO": "2026-10-22",
-      "timestamp": 1792627200000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/RUaEZen.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "ida-documentary-awards"
-    },
-    {
       "award": "Gotham Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -55,11 +40,26 @@
       "timestamp": 1793059200000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/U4Kv44v.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/o-convite-la-gradiva-clarissa-tender-loving-care-e-o-sentido-da-vida-lideram-com-4-indicacoes-cada-o-gotham-awards-2026",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/c1fc070f-4e1e-4451-a79e-9d158d4b_orig.jpg",
+      "newsTitle": "\"O Convite\", \"La Gradiva\", \"Clarissa\", \"Tender Loving Care\" e \"O Sentido da Vida\" lideram com 4 indicações cada o Gotham Awards 2026!",
+      "slug": "gotham-awards"
+    },
+    {
+      "award": "IDA Documentary Awards",
+      "status": "Shortlist",
+      "statusKey": "outro",
+      "date": "28/10/2026",
+      "dateISO": "2026-10-28",
+      "timestamp": 1793145600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/RUaEZen.png",
       "newsUrl": "",
       "pageUrl": "",
       "newsImageUrl": "",
       "newsTitle": "",
-      "slug": "gotham-awards"
+      "slug": "ida-documentary-awards"
     },
     {
       "award": "Critics Choice Documentary Awards",
@@ -2509,7 +2509,7 @@
     "galeca-the-society-of-lgbtq-entertainment-critics-awards": "",
     "georgia-film-critics-association-awards": "",
     "globo-de-ouro": "",
-    "gotham-awards": "",
+    "gotham-awards": "2026-10-29T11:30:29.142Z",
     "hollywood-music-in-media-awards": "",
     "houston-film-critics-society-awards": "",
     "ida-documentary-awards": "",
