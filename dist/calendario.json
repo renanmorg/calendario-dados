@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:30:29.142Z",
+  "updatedAt": "2026-10-29T12:08:22.702Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -50,15 +50,15 @@
       "award": "IDA Documentary Awards",
       "status": "Shortlist",
       "statusKey": "outro",
-      "date": "28/10/2026",
-      "dateISO": "2026-10-28",
-      "timestamp": 1793145600000,
+      "date": "27/10/2026",
+      "dateISO": "2026-10-27",
+      "timestamp": 1793059200000,
       "hasDate": true,
       "imageUrl": "https://i.imgur.com/RUaEZen.png",
-      "newsUrl": "",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/com-o-brasileiro-a-fabulosa-maquina-do-tempo-de-eliza-capai-confira-a-shortlist-com-os-16-selecionados-a-melhor-documentario-pelo-ida-awards-2026",
       "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/afabulo-f03cor-2026117904_orig.jpg",
+      "newsTitle": "Com o brasileiro \"A Fabulosa Máquina do Tempo\" de Eliza Capai, confira a shortlist com os 16 selecionados a Melhor Documentário pelo IDA Awards 2026!",
       "slug": "ida-documentary-awards"
     },
     {
@@ -75,6 +75,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "critics-choice-documentary-awards"
+    },
+    {
+      "award": "Cinema Eye Honors Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "12/11/2026",
+      "dateISO": "2026-11-12",
+      "timestamp": 1794441600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/foayYNY.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "cinema-eye-honors-awards"
     },
     {
       "award": "European Film Awards",
@@ -135,6 +150,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "gotham-awards"
+    },
+    {
+      "award": "New York Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "01/12/2026",
+      "dateISO": "2026-12-01",
+      "timestamp": 1796083200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/jYzawLd.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "new-york-film-critics-circle-awards"
     },
     {
       "award": "Astra Creative Arts Awards (Hollywood Creative Alliance)",
@@ -225,6 +255,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "michigan-movie-critics-guild-awards"
+    },
+    {
+      "award": "Los Angeles Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "06/12/2026",
+      "dateISO": "2026-12-06",
+      "timestamp": 1796515200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/tXk30uf.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "los-angeles-film-critics-association-awards"
     },
     {
       "award": "Globo de Ouro",
@@ -332,6 +377,21 @@
       "slug": "premio-exclamacao"
     },
     {
+      "award": "San Francisco Bay Area Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "13/12/2026",
+      "dateISO": "2026-12-13",
+      "timestamp": 1797120000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/X4fsAIK.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "san-francisco-bay-area-film-critics-circle-awards"
+    },
+    {
       "award": "Seattle Film Critics Society Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -390,6 +450,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "astra-creative-arts-awards-hollywood-creative-alliance"
+    },
+    {
+      "award": "Satellite Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "16/12/2026",
+      "dateISO": "2026-12-16",
+      "timestamp": 1797379200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/kKsRV2S.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "satellite-awards"
     },
     {
       "award": "The Society of Composers and Lyricists Awards",
@@ -677,6 +752,21 @@
       "slug": "globo-de-ouro"
     },
     {
+      "award": "Cinema Eye Honors Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "11/01/2027",
+      "dateISO": "2027-01-11",
+      "timestamp": 1799625600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/foayYNY.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "cinema-eye-honors-awards"
+    },
+    {
       "award": "MPSE Golden Reel Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -705,6 +795,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "north-carolina-film-critics-association-awards"
+    },
+    {
+      "award": "Online Film Critics Society Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "11/01/2027",
+      "dateISO": "2027-01-11",
+      "timestamp": 1799625600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/ROCLSVN.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "online-film-critics-society-awards"
     },
     {
       "award": "Oscar",
@@ -915,6 +1020,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "north-carolina-film-critics-association-awards"
+    },
+    {
+      "award": "Online Film Critics Society Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "25/01/2027",
+      "dateISO": "2027-01-25",
+      "timestamp": 1800835200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/ROCLSVN.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "online-film-critics-society-awards"
     },
     {
       "award": "USC Scripter Awards",
@@ -1532,36 +1652,6 @@
       "slug": "chicago-independent-film-critics-circle-awards"
     },
     {
-      "award": "Cinema Eye Honors Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/foayYNY.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "cinema-eye-honors-awards"
-    },
-    {
-      "award": "Cinema Eye Honors Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/foayYNY.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "cinema-eye-honors-awards"
-    },
-    {
       "award": "Columbus Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -1878,21 +1968,6 @@
     },
     {
       "award": "Los Angeles Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/tXk30uf.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "los-angeles-film-critics-association-awards"
-    },
-    {
-      "award": "Los Angeles Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -1998,21 +2073,6 @@
     },
     {
       "award": "New York Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/jYzawLd.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "new-york-film-critics-circle-awards"
-    },
-    {
-      "award": "New York Film Critics Circle Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -2115,36 +2175,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "oklahoma-film-critics-circle-awards"
-    },
-    {
-      "award": "Online Film Critics Society Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/ROCLSVN.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "online-film-critics-society-awards"
-    },
-    {
-      "award": "Online Film Critics Society Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/ROCLSVN.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "online-film-critics-society-awards"
     },
     {
       "award": "Philadelphia Film Critics Circle Awards",
@@ -2250,36 +2280,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "san-francisco-bay-area-film-critics-circle-awards"
-    },
-    {
-      "award": "San Francisco Bay Area Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/X4fsAIK.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "san-francisco-bay-area-film-critics-circle-awards"
-    },
-    {
-      "award": "Satellite Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/kKsRV2S.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "satellite-awards"
     },
     {
       "award": "Satellite Awards",
