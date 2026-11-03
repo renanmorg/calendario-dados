@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T12:14:27.687Z",
+  "updatedAt": "2026-11-03T17:51:58.378Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -60,6 +60,21 @@
       "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/afabulo-f03cor-2026117904_orig.jpg",
       "newsTitle": "Com o brasileiro \"A Fabulosa Máquina do Tempo\" de Eliza Capai, confira a shortlist com os 16 selecionados a Melhor Documentário pelo IDA Awards 2026!",
       "slug": "ida-documentary-awards"
+    },
+    {
+      "award": "Hollywood Music In Media Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "02/11/2026",
+      "dateISO": "2026-11-02",
+      "timestamp": 1793577600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/UpVhQFK.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/michael-e-a-odisseia-entre-os-lideres-de-indicacoes-do-hollywood-music-in-media-awards-2026-a-premiacao-mais-completa-de-musica-para-cinema",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/1536x864-cmsv2-af08f421-5ab3-5dc_orig.jpg",
+      "newsTitle": "\"Michael\" e \"A Odisseia\" entre os líderes de indicações do Hollywood Music in Media Awards 2026, a premiação mais completa de música para cinema!",
+      "slug": "hollywood-music-in-media-awards"
     },
     {
       "award": "Critics Choice Documentary Awards",
@@ -1802,21 +1817,6 @@
       "slug": "galeca-the-society-of-lgbtq-entertainment-critics-awards"
     },
     {
-      "award": "Hollywood Music In Media Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/UpVhQFK.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "hollywood-music-in-media-awards"
-    },
-    {
       "award": "Houston Film Critics Society Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -2510,7 +2510,7 @@
     "georgia-film-critics-association-awards": "",
     "globo-de-ouro": "",
     "gotham-awards": "2026-10-29T11:30:29.142Z",
-    "hollywood-music-in-media-awards": "",
+    "hollywood-music-in-media-awards": "2026-11-03T17:51:58.378Z",
     "houston-film-critics-society-awards": "",
     "ida-documentary-awards": "",
     "independent-spirit-awards": "",
