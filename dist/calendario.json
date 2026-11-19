@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:22:53.552Z",
+  "updatedAt": "2026-11-19T16:48:29.837Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -122,21 +122,6 @@
       "slug": "european-film-awards"
     },
     {
-      "award": "IDA Documentary Awards",
-      "status": "Anúncio dos Indicados",
-      "statusKey": "indicados",
-      "date": "17/11/2026",
-      "dateISO": "2026-11-17",
-      "timestamp": 1794873600000,
-      "hasDate": true,
-      "imageUrl": "https://i.imgur.com/RUaEZen.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "ida-documentary-awards"
-    },
-    {
       "award": "Hollywood Music In Media Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -150,6 +135,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "hollywood-music-in-media-awards"
+    },
+    {
+      "award": "IDA Documentary Awards",
+      "status": "Anúncio dos Indicados",
+      "statusKey": "indicados",
+      "date": "18/11/2026",
+      "dateISO": "2026-11-18",
+      "timestamp": 1794960000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/RUaEZen.png",
+      "newsUrl": "https://www.termometrooscar.com/cinema-eacute-tudo-isso---blog/concrete-land-sobre-uma-familia-palestina-sendo-despejada-de-suas-terras-lidera-o-ida-awards-2026-com-6-indicacoes",
+      "pageUrl": "",
+      "newsImageUrl": "https://www.termometrooscar.com/uploads/1/4/8/8/1488234/published/s2qf3mmkgxmbu0y0d5lw0aikvxm.jpg?1795003471",
+      "newsTitle": "\"Concrete Land\", sobre uma família palestina sendo despejada de suas terras, lidera o IDA Awards 2026 com 6 indicações!",
+      "slug": "ida-documentary-awards"
     },
     {
       "award": "Gotham Awards",
@@ -2512,7 +2512,7 @@
     "gotham-awards": "2026-10-29T11:30:29.142Z",
     "hollywood-music-in-media-awards": "2026-11-03T17:51:58.378Z",
     "houston-film-critics-society-awards": "",
-    "ida-documentary-awards": "",
+    "ida-documentary-awards": "2026-11-19T16:48:29.837Z",
     "independent-spirit-awards": "",
     "indiana-film-journalists-association-awards": "",
     "iowa-film-critics-association-awards": "",
