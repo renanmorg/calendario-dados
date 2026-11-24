@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:51:03.526Z",
+  "updatedAt": "2026-11-24T15:29:02.057Z",
   "items": [
     {
       "award": "Critics Choice Documentary Awards",
@@ -212,6 +212,21 @@
       "slug": "astra-film-awards-hollywood-creative-alliance"
     },
     {
+      "award": "Atlanta Film Critics Circle Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "02/12/2026",
+      "dateISO": "2026-12-02",
+      "timestamp": 1796169600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/z0ZRWAl.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "atlanta-film-critics-circle-awards"
+    },
+    {
       "award": "Independent Spirit Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
@@ -225,6 +240,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "independent-spirit-awards"
+    },
+    {
+      "award": "National Board of Review Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "02/12/2026",
+      "dateISO": "2026-12-02",
+      "timestamp": 1796169600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/OZDeSGi.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "national-board-of-review-awards"
     },
     {
       "award": "Critics Choice Movie Awards",
@@ -285,6 +315,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "los-angeles-film-critics-association-awards"
+    },
+    {
+      "award": "African-American Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "07/12/2026",
+      "dateISO": "2026-12-07",
+      "timestamp": 1796601600000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/t15DGhA.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "african-american-film-critics-association-awards"
     },
     {
       "award": "Globo de Ouro",
@@ -405,6 +450,21 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "san-francisco-bay-area-film-critics-circle-awards"
+    },
+    {
+      "award": "Toronto Film Critics Association Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "13/12/2026",
+      "dateISO": "2026-12-13",
+      "timestamp": 1797120000000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/SR4GCaw.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "toronto-film-critics-association-awards"
     },
     {
       "award": "Seattle Film Critics Society Awards",
@@ -1142,6 +1202,21 @@
       "slug": "writers-guild-of-america-awards"
     },
     {
+      "award": "Satellite Awards",
+      "status": "Anúncio dos Vencedores",
+      "statusKey": "vencedores",
+      "date": "14/02/2027",
+      "dateISO": "2027-02-14",
+      "timestamp": 1802563200000,
+      "hasDate": true,
+      "imageUrl": "https://i.imgur.com/kKsRV2S.png",
+      "newsUrl": "",
+      "pageUrl": "",
+      "newsImageUrl": "",
+      "newsTitle": "",
+      "slug": "satellite-awards"
+    },
+    {
       "award": "Visual Effects Society Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -1458,21 +1533,6 @@
     },
     {
       "award": "African-American Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/t15DGhA.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "african-american-film-critics-association-awards"
-    },
-    {
-      "award": "African-American Film Critics Association Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -1515,21 +1575,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "alliance-of-women-film-journalists-eda-awards"
-    },
-    {
-      "award": "Atlanta Film Critics Circle Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/z0ZRWAl.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "atlanta-film-critics-circle-awards"
     },
     {
       "award": "Atlanta Film Critics Circle Awards",
@@ -1983,21 +2028,6 @@
     },
     {
       "award": "National Board of Review Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/OZDeSGi.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "national-board-of-review-awards"
-    },
-    {
-      "award": "National Board of Review Awards",
       "status": "Anúncio dos Indicados",
       "statusKey": "indicados",
       "date": "",
@@ -2282,21 +2312,6 @@
       "slug": "san-francisco-bay-area-film-critics-circle-awards"
     },
     {
-      "award": "Satellite Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/kKsRV2S.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "satellite-awards"
-    },
-    {
       "award": "Southeastern Film Critics Association Awards",
       "status": "Anúncio dos Vencedores",
       "statusKey": "vencedores",
@@ -2355,21 +2370,6 @@
       "newsImageUrl": "",
       "newsTitle": "",
       "slug": "st-louis-film-critics-association-awards"
-    },
-    {
-      "award": "Toronto Film Critics Association Awards",
-      "status": "Anúncio dos Vencedores",
-      "statusKey": "vencedores",
-      "date": "",
-      "dateISO": "",
-      "timestamp": 0,
-      "hasDate": false,
-      "imageUrl": "https://i.imgur.com/SR4GCaw.png",
-      "newsUrl": "",
-      "pageUrl": "",
-      "newsImageUrl": "",
-      "newsTitle": "",
-      "slug": "toronto-film-critics-association-awards"
     },
     {
       "award": "Toronto Film Critics Association Awards",
